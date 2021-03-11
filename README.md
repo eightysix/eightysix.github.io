@@ -20,3 +20,9 @@ Check out all the keyboard shortcuts for most used Markdown features in the **me
 
 ### Assistants
 Easy to use interfaces for adding **links**, **images** and **tables**.
+
+## Customisation
+Change some of the features of the app, such as preferred editing mode and color scheme, in the **preferences window**.
+
+## Privacy
+All your documents are saved locally or on your **iCloud Drive**. Typewriter does not track any of your data.
