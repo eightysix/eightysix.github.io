@@ -6,7 +6,7 @@ Typewriter is a **Markdown** editor for 🖥 and 📱 with *syntax highlighting*
 ### View modes
 #### Editor
 Distraction-free writing with syntax highlighting and shortcuts for commonly used commands.
-![](EditorLight.png)
+![](EditorDark.png)
 
 #### Preview
 View the formatted document, updated as you type and scrolled right where you want.
